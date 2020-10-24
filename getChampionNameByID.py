@@ -154,6 +154,7 @@ def get_champions_name(_id):
         555: "Pyke",
         777: "Yone",
         875: "Sett",
+        876: "Lillia",
 
     }
     return all_champion_id.get(_id)
