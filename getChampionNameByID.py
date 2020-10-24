@@ -139,6 +139,7 @@ def get_champions_name(_id):
         267: "Nami",
         268: "Azir",
         350: "Yuumi",
+        360: "Samira",
         412: "Thresh",
         420: "Illaoi",
         421: "Rek'Sai",
@@ -151,6 +152,7 @@ def get_champions_name(_id):
         517: "Sylas",
         518: "Neeko",
         555: "Pyke",
+        777: "Yone",
         875: "Sett",
 
     }
