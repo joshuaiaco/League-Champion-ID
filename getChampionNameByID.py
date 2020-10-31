@@ -117,6 +117,7 @@ def get_champions_name(_id):
         142: "Zoe",
         143: "Zyra",
         145: "Kai'sa",
+        147: "Seraphine",
         150: "Gnar",
         154: "Zac",
         157: "Yasuo",
