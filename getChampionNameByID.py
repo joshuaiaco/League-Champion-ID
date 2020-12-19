@@ -152,6 +152,7 @@ def get_champions_name(_id):
         516: "Ornn",
         517: "Sylas",
         518: "Neeko",
+        526: "Rell",
         555: "Pyke",
         777: "Yone",
         875: "Sett",
