@@ -129,6 +129,7 @@ def get_champions_name(_id):
         203: "Kindred",
         222: "Jinx",
         223: "TahmKench",
+        234: "Viego",
         235: "Senna",
         236: "Lucian",
         238: "Zed",
